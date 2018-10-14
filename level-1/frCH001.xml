@@ -4,7 +4,8 @@
 	Which prefix for <profileDesc>?
 	cf.p.271
 -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="FRA0001" xml:lang="fr-ch">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns"
+	xml:id="FRCH0001" xml:lang="fr-CH">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -47,7 +48,7 @@
 			<p/>
 		</encodingDesc>
 		<profileDesc>
-			<langUsage><language ident="FR-CH">Swiss French</language></langUsage>
+			<langUsage><language ident="fr-CH">Swiss French</language></langUsage>
 			<textDesc xmlns:e="http://distantreading.net/eltec/ns">
 				<e:authorGender key="M"/>
 				<e:size key="medium"/>
